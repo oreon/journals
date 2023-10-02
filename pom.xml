@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.jacoco</groupId>
             <artifactId>jacoco-maven-plugin</artifactId>
-            <version>0.7.5.201505241946</version>
+            <version>0.8.7</version>
         </dependency>
 
 
@@ -69,7 +69,7 @@
         <dependency>
             <groupId>it.ozimov</groupId>
             <artifactId>spring-boot-email-core</artifactId>
-            <version>0.4.0</version>
+            <version>0.4.2</version>
         </dependency>
 
         <dependency>
