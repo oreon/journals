@@ -69,7 +69,7 @@
         <dependency>
             <groupId>it.ozimov</groupId>
             <artifactId>spring-boot-email-core</artifactId>
-            <version>0.4.0</version>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
